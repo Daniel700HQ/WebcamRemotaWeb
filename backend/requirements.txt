@@ -4,3 +4,6 @@ Flask
 opencv-python
 simple-websocket
 pyopenssl
+aiortc
+av
+numpy
